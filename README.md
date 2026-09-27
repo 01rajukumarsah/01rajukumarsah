@@ -1,58 +1,41 @@
-# ⚡ Raju Kumar Sah
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:00E5FF&height=220&section=header&text=RAJU%20KUMAR%20SAH&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AEROSPACE%20ENGINEER%20%7C%20PROPULSION%20%7C%20CAD%20%7C%20CFD&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+# Raju Kumar Sah
 
-<a href="https://rajukumar.com.np">
-<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-<img src="https://img.shields.io/badge/NEPAL-0B1220?style=for-the-badge&logo=googlemaps&logoColor=00E5FF"/>
+### Aerospace Engineer · Propulsion · CAD/CAE · Manufacturing
 
-<br/>
+**Design → Simulate → Manufacture → Test → Iterate**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AEROSPACE+ENGINEER;PROPULSION+%7C+CAD%2FCAE+%7C+CFD;DESIGN+%E2%86%92+SIMULATE+%E2%86%92+BUILD+%E2%86%92+TEST;ENGINEERING+HARDWARE+%26+EXPERIMENTAL+SYSTEMS" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00E5FF?style=flat-square&labelColor=050816&color=0B1F3A"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajukumar.com.np-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rajukumar.com.np)
+[![Location](https://img.shields.io/badge/Nepal-111827?style=for-the-badge\&logo=googlemaps\&logoColor=white)](#)
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-238636?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## ⚡ ENGINEERING PROFILE
+## About Me
 
-I am an Aerospace Engineer from **IOE, Pulchowk Campus, Tribhuvan University**, focused on the intersection of aerospace propulsion, mechanical design, computational analysis, and hands-on manufacturing.
+I’m an **Aerospace Engineering graduate/engineer from IOE, Pulchowk Campus, Tribhuvan University**, focused on the intersection of **rocket propulsion, mechanical design, simulation, and hands-on manufacturing**.
 
-My engineering approach is simple:
+My engineering workflow is strongly hardware-oriented:
 
-> **Understand the physics. Design the system. Manufacture the hardware. Test the result. Iterate.**
+> **Performance analysis → CAD → CFD/CAE → Manufacturing → Assembly → Testing → Iteration**
 
-My experience spans liquid and solid propulsion, sounding rockets, UAVs, composite structures, robotics, and experimental research.
+I have worked across **liquid and solid propulsion, sounding rockets, UAVs, composite structures, robotics, and experimental propulsion research**, with practical experience taking mechanical systems from engineering concepts into physical hardware.
 
-I enjoy working where engineering calculations meet real-world hardware.
+My strongest interests are:
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                  ENGINEERING FOCUS                      │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🚀  ROCKET PROPULSION                                 │
-│  ⚙️  MECHANICAL DESIGN & MANUFACTURING                 │
-│  🧮  CFD / CAE / PERFORMANCE ANALYSIS                   │
-│  🛰️  AEROSPACE SYSTEMS & FLIGHT HARDWARE               │
-│  🧪  EXPERIMENTAL RESEARCH & TESTING                    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+* 🚀 Liquid & hybrid rocket propulsion
+* 🔥 Propulsion testing & experimental systems
+* ⚙️ CAD, mechanical design & manufacturing
+* 🧮 Computational analysis & CFD
+* 🧪 Propellant and combustion experiments
+* 🛰️ Flight systems and aerospace structures
 
 ---
 
-## 🔬 CURRENT ENGINEERING INTERESTS
+## Engineering Focus
 
 ```text
 PROPULSION
@@ -61,7 +44,7 @@ PROPULSION
 ├── Solid Propulsion
 ├── Injector & Nozzle Design
 ├── Performance Analysis
-└── Experimental Testing
+└── Static-Fire Testing
 
 DESIGN & SIMULATION
 ├── CATIA V5
@@ -83,7 +66,7 @@ MANUFACTURING
 PROGRAMMING & DATA
 ├── Python
 ├── MATLAB
-├── C / C++
+├── C/C++
 ├── NumPy
 ├── Pandas
 └── Engineering Data Analysis
@@ -91,153 +74,149 @@ PROGRAMMING & DATA
 
 ---
 
-# 🚀 FEATURED ENGINEERING PROJECTS
+# Featured Engineering Projects
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:0B1F3A&height=2&section=header" width="100%"/>
-
-</div>
-
-## 🔥 LUME-X1 — LIQUID ROCKET ENGINE
-
-**Pressure-fed liquid rocket engine development**
-
-An experimental liquid rocket engine developed through a complete engineering workflow — from performance modeling and CAD design to machining, assembly, and static-fire testing.
-
-### Propulsion System
-
-| Parameter     | Description                     |
-| ------------- | ------------------------------- |
-| Propellants   | Ethanol / GOX                   |
-| Engine Type   | Pressure-fed liquid engine      |
-| Design        | Injector, chamber & nozzle      |
-| Analysis      | NASA CEA / performance modeling |
-| Manufacturing | CAD → CNC / lathe               |
-| Testing       | Static-fire testing             |
-
-### First Static-Fire Result
-
-| Metric           | Value |
-| ---------------- | ----: |
-| Predicted thrust | 130 N |
-| Measured thrust  | 121 N |
-| Difference       | ~6.9% |
-
-```text
-PERFORMANCE ANALYSIS
-        ↓
-INJECTOR & NOZZLE DESIGN
-        ↓
-CAD DEVELOPMENT
-        ↓
-MACHINING & FABRICATION
-        ↓
-ASSEMBLY
-        ↓
-STATIC-FIRE TEST
-        ↓
-DATA ANALYSIS
-        ↓
-ITERATION
-```
-
-**Engineering:** `Liquid Propulsion` `CAD` `CEA` `Manufacturing` `Testing`
-
----
-
-## 🚀 PROJECT TRISHUL — SOUNDING ROCKET
+## 🚀 Project TRISHUL — Sounding Rocket
 
 **Propulsion & Fabrication Lead**
 
-A sounding rocket project developed in Nepal with propulsion, structural fabrication, testing, and system integration responsibilities.
+An L-class sounding rocket developed in Nepal, involving propulsion development, structural fabrication, testing, and system integration.
 
-### Highlights
+**Highlights**
 
-* **2.62 km achieved altitude**
-* National altitude record in Nepal, as reported for the project
-* Developed in collaboration with WorldLink Communications
-* Propulsion system development
-* Static-fire testing
-* Airframe fabrication
-* Mechanical integration
+* Achieved an altitude of **2.62 km**
+* Recognized as a **national altitude record in Nepal**
+* Developed in collaboration with **WorldLink Communications**
+* Propulsion system development and static-fire testing
+* Airframe and mechanical component fabrication
+* Full hardware integration and testing
 
-**Engineering:** `Rocket Propulsion` `Fabrication` `Testing` `Systems Integration`
+**Engineering areas:**
+`Rocket Propulsion` · `Fabrication` · `Testing` · `Systems Integration`
 
 ---
 
-## 🤖 ABU ROBOCON 2023 — TEAM NEPAL
+## 🔥 LUME-X1 — Liquid Rocket Engine
+
+A small pressure-fed liquid rocket engine developed through an end-to-end engineering workflow.
+
+**Propellants:** Ethanol / GOX
+
+**Workflow**
+
+```text
+NASA CEA / Performance Analysis
+          ↓
+      Injector Design
+          ↓
+       CAD Design
+          ↓
+    CNC / Lathe Machining
+          ↓
+      Assembly
+          ↓
+      Static Fire
+          ↓
+   Experimental Data
+          ↓
+       Iteration
+```
+
+**First static-fire result**
+
+* Predicted thrust: **130 N**
+* Measured thrust: **121 N**
+* Difference: **~6.9%**
+
+This project represents my primary interest in **experimental liquid propulsion and hardware-driven engineering**.
+
+**Engineering areas:**
+`Liquid Propulsion` · `Injector Design` · `Nozzle Design` · `CEA` · `CAD` · `Manufacturing` · `Testing`
+
+---
+
+## 🤖 ABU Robocon 2023 — Team Nepal
 
 **Design & Fabrication Head**
 
-Represented Nepal at ABU Robocon 2023 in Phnom Penh, Cambodia.
+Represented Nepal at **ABU Robocon 2023 in Phnom Penh, Cambodia**.
 
-### Highlights
+**Highlights**
 
-* Quarter-finalist
-* Mabuchi Motor Award for compact design
+* Reached the **Quarter Finals**
+* Received the **Mabuchi Motor Award for compact design**
 * Mechanical CAD development
-* Precision machining
-* CNC fabrication
+* Precision machining and fabrication
 * Component weight optimization
 * 3D-printed component integration
-* Mechanical assembly
+* Mechanical assembly and system integration
 
-**Engineering:** `Robotics` `CAD` `CNC` `3D Printing` `Mechanical Design`
+**Engineering areas:**
+`Mechanical Design` · `CAD` · `CNC` · `3D Printing` · `Robotics`
 
 ---
 
-## 🛰️ PROJECT BAJRA — ACTIVE-CONTROL ROCKET
+## 🛰️ Project Bajra — Active-Control Rocket
 
 Contributed to an actively stabilized rocket developed as a senior engineering project.
 
-### Contributions
+**Contributions**
 
 * Propulsion system development
 * Static-fire testing
-* Composite airframe fabrication
+* Mechanical fabrication
+* Composite airframe manufacturing
 * Glass-fiber composite layup
 * Pressure chamber fabrication
 * Mechanical integration
 
-**Engineering:** `Propulsion` `Composites` `Fabrication` `Flight Systems`
+**Engineering areas:**
+`Rocket Propulsion` · `Composite Structures` · `Fabrication` · `Flight Systems`
 
 ---
 
 <details>
-<summary><strong>🛰️ MORE AEROSPACE PROJECTS</strong></summary>
+<summary><strong>More Aerospace Projects</strong></summary>
 
 ### Phoenix — High-Altitude Pseudo-Satellite
 
-Preliminary HAPS aircraft design and performance analysis.
+Preliminary HAPS aircraft design and performance analysis using:
 
-**Tools:** X-Plane · PlaneMaker · XFLR5 · Python · SUAVE
+`X-Plane` · `PlaneMaker` · `XFLR5` · `Python` · `SUAVE`
+
+---
 
 ### Blended-Wing-Body UAV
 
-Worked on a BWB UAV platform involving airframe development, flight-control integration, sensor systems, and flight testing.
+Worked on a BWB UAV platform involving:
 
-**Tools:** PX4 · ArduPilot · IMU · Gyroscope · Accelerometer
+* Airframe development
+* Flight-control integration
+* IMU / gyroscope / accelerometer systems
+* PX4 / ArduPilot
+* Flight testing
+
+---
 
 ### Flame-Retardant Fiber Research
 
-Experimental research on flame-retardant treatments for cotton fibers.
+Research work involving the experimental evaluation of flame-retardant treatments for cotton fibers.
 
-**Research area:** Materials characterization and flame resistance.
+The study investigated different treatment agents and characterized their influence on flame resistance.
 
 </details>
 
 ---
 
-# 🧪 RESEARCH EXPERIENCE
+# Research Experience
 
 ## Propellant Research Laboratory — IIT Bombay
 
 **Aerospace Engineering Research Internship**
 
-Worked on experimental propulsion research involving solid and hybrid propulsion systems.
+Worked on experimental propulsion research involving **solid and hybrid propulsion systems**.
 
-### Experimental Work
+### Experimental work
 
 * AP/HTPB composite propellant characterization
 * Burn-rate measurements
@@ -245,130 +224,133 @@ Worked on experimental propulsion research involving solid and hybrid propulsion
 * Closed-vessel combustion experiments
 * Hybrid rocket motor hot-fire testing
 * Laser ignition systems
-* Electrically Controlled Solid Propellant evaluation
+* Electrically Controlled Solid Propellant (ECSP) evaluation
 
-**Research focus:** `Propellant Characterization` `Combustion` `Experimental Propulsion`
-
----
-
-# ⚙️ TECHNICAL TOOLKIT
-
-<div align="center">
-
-### PROGRAMMING & COMPUTATION
-
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab" />
-
-### CAD / CAE / SIMULATION
-
-<img src="https://img.shields.io/badge/CATIA%20V5-005386?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SolidWorks-E2211C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenFOAM-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NASA%20CEA-0B3D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RPA-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenVSP-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XFLR5-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SUAVE-333333?style=for-the-badge"/>
-
-### AEROSPACE & FLIGHT SYSTEMS
-
-<img src="https://img.shields.io/badge/OpenRocket-E85D04?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PX4-2C3E50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ArduPilot-333333?style=for-the-badge"/>
-
-### MANUFACTURING
-
-<img src="https://img.shields.io/badge/CNC%20Machining-00E5FF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/3D%20Printing-00E5FF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Composite%20Fabrication-00E5FF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Welding-00E5FF?style=for-the-badge&logoColor=black"/>
-
-</div>
+This experience strengthened my interest in **experimental propulsion, instrumentation, combustion, and test-driven engineering**.
 
 ---
 
-# 📊 GITHUB ACTIVITY
+# Technical Stack
 
-<div align="center">
+### Programming & Data
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=2979FF&text_color=FFFFFF" width="48%"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square\&logo=mathworks\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=2979FF&currStreakLabel=00E5FF" width="48%"/>
+### CAD & Engineering Design
 
-</div>
+![CATIA](https://img.shields.io/badge/CATIA%20V5-005386?style=flat-square)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2211C?style=flat-square)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-F5871F?style=flat-square)
+![OpenVSP](https://img.shields.io/badge/OpenVSP-333333?style=flat-square)
+
+### CFD & Simulation
+
+![ANSYS](https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=flat-square\&logoColor=black)
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1B365D?style=flat-square)
+![NASA CEA](https://img.shields.io/badge/NASA%20CEA-0B3D91?style=flat-square)
+![RPA](https://img.shields.io/badge/RPA-4B0082?style=flat-square)
+![SUAVE](https://img.shields.io/badge/SUAVE-333333?style=flat-square)
+![XFLR5](https://img.shields.io/badge/XFLR5-333333?style=flat-square)
+
+### Aerospace & Flight Systems
+
+![OpenRocket](https://img.shields.io/badge/OpenRocket-E85D04?style=flat-square)
+![PX4](https://img.shields.io/badge/PX4-2C3E50?style=flat-square)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-333333?style=flat-square)
+
+### Manufacturing
+
+![CNC](https://img.shields.io/badge/CNC%20Machining-333333?style=flat-square)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-333333?style=flat-square)
+![Composites](https://img.shields.io/badge/Composite%20Fabrication-333333?style=flat-square)
+![Welding](https://img.shields.io/badge/Welding-333333?style=flat-square)
 
 ---
 
-# 📁 ENGINEERING REPOSITORIES
+# Selected Technical Reports
 
-My GitHub is intended to document engineering work, analysis, simulations, experiments, and reusable tools.
+| Report / Study                                | Area                                 | Organization |
+| --------------------------------------------- | ------------------------------------ | ------------ |
+| **Propellant Combustion Studies**             | Solid & hybrid propulsion            | IIT Bombay   |
+| **Tests for Assessing Propellant Properties** | Propellant characterization          | IIT Bombay   |
+| **Supersonic Inlet Design**                   | Hypersonic / supersonic aerodynamics | IOE Pulchowk |
+| **Rocket Nozzle CFD Studies**                 | Compressible flow / CFD              | IOE Pulchowk |
+| **Flame-Retardant Fiber Research**            | Materials research                   | IOE Pulchowk |
+
+---
+
+# What You'll Find on My GitHub
+
+I use GitHub to document engineering work, experiments, simulations, and reusable tools.
 
 ```text
-📁 aerospace-projects
-│
-├── 🚀 propulsion
-│   ├── liquid-engine-analysis
-│   ├── nozzle-cfd
-│   └── propulsion-data-analysis
-│
-├── 🛰️ aerospace-design
-│   ├── sounding-rocket
-│   ├── uav-design
-│   └── aircraft-analysis
-│
-├── ⚙️ manufacturing
-│   ├── cad-models
-│   ├── cnc-projects
-│   └── composite-fabrication
-│
-└── 🧮 engineering-tools
-    ├── python
-    ├── matlab
-    └── simulation-utilities
+📁 propulsion
+   ├── performance calculations
+   ├── injector / nozzle studies
+   ├── experimental data analysis
+   └── test documentation
+
+📁 aerospace-cfd
+   ├── ANSYS Fluent cases
+   ├── OpenFOAM cases
+   ├── compressible-flow studies
+   └── validation work
+
+📁 aerospace-design
+   ├── CAD projects
+   ├── aircraft studies
+   ├── UAV concepts
+   └── flight-system work
+
+📁 engineering-tools
+   ├── Python utilities
+   ├── MATLAB scripts
+   ├── data-processing tools
+   └── engineering calculators
 ```
 
 ---
 
-# 🎓 EDUCATION
+# Education
 
 ### B.E. Aerospace Engineering
 
 **Institute of Engineering, Pulchowk Campus**
 Tribhuvan University · Nepal
 
-Focus areas:
+Focus areas include:
 
 `Aerospace Propulsion` · `Aerodynamics` · `Flight Mechanics` · `Structures` · `CFD` · `Manufacturing`
 
 ---
 
-# 📄 TECHNICAL REPORTS
+# Publications & Technical Documentation
 
-| Report / Study                            | Area                        |
-| ----------------------------------------- | --------------------------- |
-| Propellant Combustion Studies             | Solid & Hybrid Propulsion   |
-| Tests for Assessing Propellant Properties | Propellant Characterization |
-| Supersonic Inlet Design                   | Compressible Aerodynamics   |
-| Rocket Nozzle CFD Studies                 | CFD / Compressible Flow     |
-| Flame-Retardant Fiber Research            | Materials Research          |
+I am interested in making engineering work **reproducible and reviewable**, including:
+
+* Technical reports
+* Experimental test data
+* Simulation methodologies
+* CAD documentation
+* Engineering calculations
+* Research notes
+
+Where appropriate, project repositories include the assumptions, methodology, results, and limitations behind the work.
 
 ---
 
-# 🌐 CONNECT
+# Connect
 
 <div align="center">
 
-<a href="https://rajukumar.com.np">
-<img src="https://img.shields.io/badge/WEBSITE-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
+### Let's build better aerospace hardware.
 
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/Website-rajukumar.com.np-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rajukumar.com.np)
 
-**AEROSPACE ENGINEERING · PROPULSION · MANUFACTURING · EXPERIMENTAL SYSTEMS**
+<br><br>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B1F3A,100:050816&height=120&section=footer" width="100%"/>
+**Aerospace · Propulsion · Manufacturing · Experimental Engineering**
 
 </div>
