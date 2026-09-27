@@ -33,21 +33,21 @@
   <text x="60" y="150" font-family="Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1" fill="#E7ECF3">Raju Kumar Sah</text>
 
   <!-- tagline -->
-  <text x="62" y="188" font-family="SFMono-Regular, Consolas, monospace" font-size="16" fill="#8A93A6" letter-spacing="0.5">Aerospace Engineer — Propulsion &amp; Fabrication</text>
+  <text x="62" y="188" font-family="SFMono-Regular, Consolas, monospace" font-size="16" fill="#8A93A6" letter-spacing="0.5">Aerospace Engineer — Propulsion, Structure &amp; Fabrication</text>
 
   <!-- flight log data strip -->
   <g font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#8A93A6">
-    <text x="62" y="250">ALT_RECORD</text>
+    <text x="62" y="250">NATIONAL_ROCKETRY_RECORD</text>
     <text x="62" y="272" fill="#FF7A45" font-size="20" font-weight="600">2.62 km</text>
 
-    <text x="230" y="250">THRUST (LUME-X1)</text>
+    <text x="230" y="250">NEPAL_FIRST_LIQUID_ROCKET_ENGINE (LUME-X1)</text>
     <text x="230" y="272" fill="#4FA8FF" font-size="20" font-weight="600">121 N</text>
 
     <text x="430" y="250">PROPELLANTS</text>
     <text x="430" y="272" fill="#E7ECF3" font-size="20" font-weight="600">EtOH / GOX</text>
 
     <text x="640" y="250">INSTITUTION</text>
-    <text x="640" y="272" fill="#E7ECF3" font-size="20" font-weight="600">IOE Pulchowk</text>
+    <text x="640" y="272" fill="#E7ECF3" font-size="20" font-weight="600">IOE Pulchowk Campus</text>
   </g>
 
   <line x1="60" y1="300" x2="1140" y2="300" stroke="#1B2333" stroke-width="1"/>
