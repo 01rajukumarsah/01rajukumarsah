@@ -1,5 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Raju Kumar Sah — Aerospace Engineer, Propulsion & Fabrication"/>
-
+   <img src="https://raw.githubusercontent.com/01rajukumarsah/01rajukumarsah/main/banner.svg" width="100%" alt="Raju Kumar Sah — Aerospace Engineer, Propulsion & Fabrication"/>
 <br/>
 
 ### About
