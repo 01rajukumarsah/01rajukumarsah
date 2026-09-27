@@ -6,7 +6,7 @@
 ### About
 I build propulsion hardware from first principles through to a live static fire. Aerospace Engineering graduate of IOE Pulchowk Campus, Tribhuvan University, with a track record that runs from CEA performance modeling and CATIA design, into the machine shop, and out onto the test stand. I led propulsion and fabrication on a national-record sounding rocket, machined and fired a liquid engine of my own design, and represented Nepal 
 at an international robotics competition. The common thread is ownership of hardware end to end not just the analysis.
-[Portfolio](https://rajukumar.com.np/) · [LinkedIn](linkedin.com/in/raju-kumar-sah01) · [YouTube]() · 01.rajukumarsah@gmail.com
+[Portfolio](https://rajukumar.com.np/) · [LinkedIn](https://www.linkedin.com/in/raju-kumar-sah01/) · [YouTube]() · 01.rajukumarsah@gmail.com
 <br/>
 
 ### Current research
