@@ -34,7 +34,7 @@
   <text x="60" y="150" font-family="Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1" fill="#E7ECF3">Raju Kumar Sah</text>
 
   <!-- tagline -->
-  <text x="62" y="188" font-family="SFMono-Regular, Consolas, monospace" font-size="16" fill="#8A93A6" letter-spacing="0.5">Aerospace Engineer — Propulsion, CFD, Structure &amp; Fabrication</text>
+  <text x="62" y="188" font-family="SFMono-Regular, Consolas, monospace" font-size="16" fill="#8A93A6" letter-spacing="0.5">Aerospace Engineer | Propulsion, CFD, Structure &amp; Fabrication</text>
 
   <!-- flight log data strip -->
   <g font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#8A93A6">
