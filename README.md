@@ -1,356 +1,56 @@
-<div align="center">
-
-# Raju Kumar Sah
-
-### Aerospace Engineer · Propulsion · CAD/CAE · Manufacturing
-
-**Design → Simulate → Manufacture → Test → Iterate**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rajukumar.com.np-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rajukumar.com.np)
-[![Location](https://img.shields.io/badge/Nepal-111827?style=for-the-badge\&logo=googlemaps\&logoColor=white)](#)
-[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-238636?style=for-the-badge)](#)
-
-</div>
-
----
-
-## About Me
-
-I’m an **Aerospace Engineering graduate/engineer from IOE, Pulchowk Campus, Tribhuvan University**, focused on the intersection of **rocket propulsion, mechanical design, simulation, and hands-on manufacturing**.
-
-My engineering workflow is strongly hardware-oriented:
-
-> **Performance analysis → CAD → CFD/CAE → Manufacturing → Assembly → Testing → Iteration**
-
-I have worked across **liquid and solid propulsion, sounding rockets, UAVs, composite structures, robotics, and experimental propulsion research**, with practical experience taking mechanical systems from engineering concepts into physical hardware.
-
-My strongest interests are:
-
-* 🚀 Liquid & hybrid rocket propulsion
-* 🔥 Propulsion testing & experimental systems
-* ⚙️ CAD, mechanical design & manufacturing
-* 🧮 Computational analysis & CFD
-* 🧪 Propellant and combustion experiments
-* 🛰️ Flight systems and aerospace structures
-
----
-
-## Engineering Focus
-
-```text
-PROPULSION
-├── Liquid Rocket Engines
-├── Hybrid Rocket Motors
-├── Solid Propulsion
-├── Injector & Nozzle Design
-├── Performance Analysis
-└── Static-Fire Testing
-
-DESIGN & SIMULATION
-├── CATIA V5
-├── SolidWorks
-├── ANSYS Fluent
-├── OpenFOAM
-├── NASA CEA
-├── RPA
-└── OpenVSP / XFLR5 / SUAVE
-
-MANUFACTURING
-├── CNC Machining
-├── Lathe Operations
-├── Welding
-├── Composite Fabrication
-├── 3D Printing
-└── Mechanical Assembly
-
-PROGRAMMING & DATA
-├── Python
-├── MATLAB
-├── C/C++
-├── NumPy
-├── Pandas
-└── Engineering Data Analysis
-```
-
----
-
-# Featured Engineering Projects
-
-## 🚀 Project TRISHUL — Sounding Rocket
-
-**Propulsion & Fabrication Lead**
-
-An L-class sounding rocket developed in Nepal, involving propulsion development, structural fabrication, testing, and system integration.
-
-**Highlights**
-
-* Achieved an altitude of **2.62 km**
-* Recognized as a **national altitude record in Nepal**
-* Developed in collaboration with **WorldLink Communications**
-* Propulsion system development and static-fire testing
-* Airframe and mechanical component fabrication
-* Full hardware integration and testing
-
-**Engineering areas:**
-`Rocket Propulsion` · `Fabrication` · `Testing` · `Systems Integration`
-
----
-
-## 🔥 LUME-X1 — Liquid Rocket Engine
-
-A small pressure-fed liquid rocket engine developed through an end-to-end engineering workflow.
-
-**Propellants:** Ethanol / GOX
-
-**Workflow**
-
-```text
-NASA CEA / Performance Analysis
-          ↓
-      Injector Design
-          ↓
-       CAD Design
-          ↓
-    CNC / Lathe Machining
-          ↓
-      Assembly
-          ↓
-      Static Fire
-          ↓
-   Experimental Data
-          ↓
-       Iteration
-```
-
-**First static-fire result**
-
-* Predicted thrust: **130 N**
-* Measured thrust: **121 N**
-* Difference: **~6.9%**
-
-This project represents my primary interest in **experimental liquid propulsion and hardware-driven engineering**.
-
-**Engineering areas:**
-`Liquid Propulsion` · `Injector Design` · `Nozzle Design` · `CEA` · `CAD` · `Manufacturing` · `Testing`
-
----
-
-## 🤖 ABU Robocon 2023 — Team Nepal
-
-**Design & Fabrication Head**
-
-Represented Nepal at **ABU Robocon 2023 in Phnom Penh, Cambodia**.
-
-**Highlights**
-
-* Reached the **Quarter Finals**
-* Received the **Mabuchi Motor Award for compact design**
-* Mechanical CAD development
-* Precision machining and fabrication
-* Component weight optimization
-* 3D-printed component integration
-* Mechanical assembly and system integration
-
-**Engineering areas:**
-`Mechanical Design` · `CAD` · `CNC` · `3D Printing` · `Robotics`
-
----
-
-## 🛰️ Project Bajra — Active-Control Rocket
-
-Contributed to an actively stabilized rocket developed as a senior engineering project.
-
-**Contributions**
-
-* Propulsion system development
-* Static-fire testing
-* Mechanical fabrication
-* Composite airframe manufacturing
-* Glass-fiber composite layup
-* Pressure chamber fabrication
-* Mechanical integration
-
-**Engineering areas:**
-`Rocket Propulsion` · `Composite Structures` · `Fabrication` · `Flight Systems`
-
----
-
-<details>
-<summary><strong>More Aerospace Projects</strong></summary>
-
-### Phoenix — High-Altitude Pseudo-Satellite
-
-Preliminary HAPS aircraft design and performance analysis using:
-
-`X-Plane` · `PlaneMaker` · `XFLR5` · `Python` · `SUAVE`
-
----
-
-### Blended-Wing-Body UAV
-
-Worked on a BWB UAV platform involving:
-
-* Airframe development
-* Flight-control integration
-* IMU / gyroscope / accelerometer systems
-* PX4 / ArduPilot
-* Flight testing
-
----
-
-### Flame-Retardant Fiber Research
-
-Research work involving the experimental evaluation of flame-retardant treatments for cotton fibers.
-
-The study investigated different treatment agents and characterized their influence on flame resistance.
-
-</details>
-
----
-
-# Research Experience
-
-## Propellant Research Laboratory — IIT Bombay
-
-**Aerospace Engineering Research Internship**
-
-Worked on experimental propulsion research involving **solid and hybrid propulsion systems**.
-
-### Experimental work
-
-* AP/HTPB composite propellant characterization
-* Burn-rate measurements
-* Crawford Bomb testing
-* Closed-vessel combustion experiments
-* Hybrid rocket motor hot-fire testing
-* Laser ignition systems
-* Electrically Controlled Solid Propellant (ECSP) evaluation
-
-This experience strengthened my interest in **experimental propulsion, instrumentation, combustion, and test-driven engineering**.
-
----
-
-# Technical Stack
-
-### Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square\&logo=mathworks\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-
-### CAD & Engineering Design
-
-![CATIA](https://img.shields.io/badge/CATIA%20V5-005386?style=flat-square)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E2211C?style=flat-square)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-F5871F?style=flat-square)
-![OpenVSP](https://img.shields.io/badge/OpenVSP-333333?style=flat-square)
-
-### CFD & Simulation
-
-![ANSYS](https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=flat-square\&logoColor=black)
-![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1B365D?style=flat-square)
-![NASA CEA](https://img.shields.io/badge/NASA%20CEA-0B3D91?style=flat-square)
-![RPA](https://img.shields.io/badge/RPA-4B0082?style=flat-square)
-![SUAVE](https://img.shields.io/badge/SUAVE-333333?style=flat-square)
-![XFLR5](https://img.shields.io/badge/XFLR5-333333?style=flat-square)
-
-### Aerospace & Flight Systems
-
-![OpenRocket](https://img.shields.io/badge/OpenRocket-E85D04?style=flat-square)
-![PX4](https://img.shields.io/badge/PX4-2C3E50?style=flat-square)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-333333?style=flat-square)
-
-### Manufacturing
-
-![CNC](https://img.shields.io/badge/CNC%20Machining-333333?style=flat-square)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-333333?style=flat-square)
-![Composites](https://img.shields.io/badge/Composite%20Fabrication-333333?style=flat-square)
-![Welding](https://img.shields.io/badge/Welding-333333?style=flat-square)
-
----
-
-# Selected Technical Reports
-
-| Report / Study                                | Area                                 | Organization |
-| --------------------------------------------- | ------------------------------------ | ------------ |
-| **Propellant Combustion Studies**             | Solid & hybrid propulsion            | IIT Bombay   |
-| **Tests for Assessing Propellant Properties** | Propellant characterization          | IIT Bombay   |
-| **Supersonic Inlet Design**                   | Hypersonic / supersonic aerodynamics | IOE Pulchowk |
-| **Rocket Nozzle CFD Studies**                 | Compressible flow / CFD              | IOE Pulchowk |
-| **Flame-Retardant Fiber Research**            | Materials research                   | IOE Pulchowk |
-
----
-
-# What You'll Find on My GitHub
-
-I use GitHub to document engineering work, experiments, simulations, and reusable tools.
-
-```text
-📁 propulsion
-   ├── performance calculations
-   ├── injector / nozzle studies
-   ├── experimental data analysis
-   └── test documentation
-
-📁 aerospace-cfd
-   ├── ANSYS Fluent cases
-   ├── OpenFOAM cases
-   ├── compressible-flow studies
-   └── validation work
-
-📁 aerospace-design
-   ├── CAD projects
-   ├── aircraft studies
-   ├── UAV concepts
-   └── flight-system work
-
-📁 engineering-tools
-   ├── Python utilities
-   ├── MATLAB scripts
-   ├── data-processing tools
-   └── engineering calculators
-```
-
----
-
-# Education
-
-### B.E. Aerospace Engineering
-
-**Institute of Engineering, Pulchowk Campus**
-Tribhuvan University · Nepal
-
-Focus areas include:
-
-`Aerospace Propulsion` · `Aerodynamics` · `Flight Mechanics` · `Structures` · `CFD` · `Manufacturing`
-
----
-
-# Publications & Technical Documentation
-
-I am interested in making engineering work **reproducible and reviewable**, including:
-
-* Technical reports
-* Experimental test data
-* Simulation methodologies
-* CAD documentation
-* Engineering calculations
-* Research notes
-
-Where appropriate, project repositories include the assumptions, methodology, results, and limitations behind the work.
-
----
-
-# Connect
-
-<div align="center">
-
-### Let's build better aerospace hardware.
-
-[![Portfolio](https://img.shields.io/badge/Website-rajukumar.com.np-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rajukumar.com.np)
-
-<br><br>
-
-**Aerospace · Propulsion · Manufacturing · Experimental Engineering**
-
-</div>
+<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphOTljZTlkOS1hNTM4LTQ3ZGYtOTNiZC02YTdhMDUyNmUwMGYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBZk68g/IPkdzgj/QGUYymoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjNjI5NWEzOC0yOTE4LTRmZGItYTU0ZC0yYWY3M2Q1ZDdkYjBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo4dGfE79JvWUfk+zpxP1RQwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggyGCzG4Yh3DIxspnZxPPcDhsyESQWoboQcLImP7nrDeikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaP3PS4Tu99X0TZhEq4XLO/QAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBeCrB2MwYBM7WXx8MWH9xjJD7yPStclCUMkoN5G0nS62RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmE5OWNlOWQ5LWE1MzgtNDdkZi05M2JkLTZhN2EwNTI2ZTAwZi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjAyZjJiM2IzLTE0OGYtNDhjOC05M2NhLWI2ZTNmMzk1N2Q4YXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDIYLMbhiHcMjGymdnE89wOGzIRJBahuhBwsiY/uesN6KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggZ7Puo5VJl8GB70WUinXc5jjA+c5qqfMFwIdZ8SZwNGeiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg62SKNOm9IScmKCpTrZgYfQNoG8o+vFAGkMTdfUPTB/h0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGwOOKMGATuIZehjVljf60fOW7C3MwzADed1IkP0wKRrr6rUa70dq2OWa8NofM+CSRzTeoi8Mw3WUgnHAFOEw9Q=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0E14"/>
+      <stop offset="100%" stop-color="#0E1420"/>
+    </linearGradient>
+    <linearGradient id="flame" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A45" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#FF7A45" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFB088" stop-opacity="1"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1B2333" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <rect width="1200" height="380" fill="url(#grid)"/>
+
+  <!-- thrust / altitude telemetry curve -->
+  <polyline points="0,320 120,318 240,300 360,260 480,190 600,150 720,120 840,70 960,55 1080,50 1200,48"
+            fill="none" stroke="url(#flame)" stroke-width="2.5" opacity="0.85"/>
+  <circle cx="960" cy="55" r="4" fill="#FF7A45"/>
+
+  <!-- rocket converging-diverging (de Laval) nozzle cross-section, right side -->
+  <g transform="translate(980,150)" stroke="#3A4557" stroke-width="1.6" fill="none" opacity="0.8" stroke-linejoin="round">
+    <polyline points="-40,20 60,75 190,10"/>
+    <polyline points="-40,160 60,105 190,170"/>
+    <line x1="-45" y1="90" x2="190" y2="90" stroke-dasharray="7,5"/>
+    
+  </g>
+
+  <!-- name -->
+  <text x="60" y="150" font-family="Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1" fill="#E7ECF3">Raju Kumar Sah</text>
+
+  <!-- tagline -->
+  <text x="62" y="188" font-family="SFMono-Regular, Consolas, monospace" font-size="16" fill="#8A93A6" letter-spacing="0.5">Aerospace Engineer — Propulsion, CFD, Structure &amp; Fabrication</text>
+
+  <!-- flight log data strip -->
+  <g font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#8A93A6">
+    <text x="62" y="250">NATIONAL_RECORD</text>
+    <text x="62" y="272" fill="#FF7A45" font-size="20" font-weight="600">2.62 km</text>
+
+    <text x="230" y="250">FLREON(LUME-X1)</text>
+    <text x="230" y="272" fill="#4FA8FF" font-size="20" font-weight="600">121 N</text>
+
+    <text x="430" y="250">PROPELLANTS</text>
+    <text x="430" y="272" fill="#E7ECF3" font-size="20" font-weight="600">EtOH/GOX</text>
+
+    <text x="640" y="250">INSTITUTION</text>
+    <text x="640" y="272" fill="#E7ECF3" font-size="20" font-weight="600">IOE Pulchowk Campus</text>
+  </g>
+
+  <line x1="60" y1="300" x2="1140" y2="300" stroke="#1B2333" stroke-width="1"/>
+  <text x="60" y="330" font-family="SFMono-Regular, Consolas, monospace" font-size="12" fill="#4A5568">rajukumar.com.np · Kathmandu, Nepal</text>
+</svg>
