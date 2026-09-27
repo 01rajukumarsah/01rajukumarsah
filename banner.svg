@@ -37,10 +37,10 @@
 
   <!-- flight log data strip -->
   <g font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#8A93A6">
-    <text x="62" y="250">NATIONAL_ROCKETRY_RECORD</text>
+    <text x="62" y="250">NATIONAL_RECORD</text>
     <text x="62" y="272" fill="#FF7A45" font-size="20" font-weight="600">2.62 km</text>
 
-    <text x="230" y="250">NEPAL_FIRST_LIQUID_ROCKET_ENGINE (LUME-X1)</text>
+    <text x="230" y="250">FLREON(LUME-X1)</text>
     <text x="230" y="272" fill="#4FA8FF" font-size="20" font-weight="600">121 N</text>
 
     <text x="430" y="250">PROPELLANTS</text>
