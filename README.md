@@ -44,7 +44,7 @@ The full pipeline: performance modeling in CEA, injector and chamber design in C
 
 ### Technical toolkit
 
-**Propulsion & flight analysis** — NASA CEA · RPA · OpenRocket · OpenMotor · OpenVSP · PX4 / ArduPilot
+**Propulsion & flight analysis** NASA CEA · RPA · OpenRocket · OpenMotor · OpenVSP · PX4 / ArduPilot
 **CAD / CAE** - CATIA V5 · SolidWorks · ANSYS Fluent · Fusion 360 · OpenFOAM
 **Programming** - Python (NumPy, Pandas, Matplotlib) · MATLAB
 **Fabrication** - CNC machining, lathe & milling, welding, composite layup, 3D printing, CO₂ laser cutting
@@ -56,7 +56,7 @@ The full pipeline: performance modeling in CEA, injector and chamber design in C
 | | |
 |---|---|
 | **Propellant Combustion Studies** | Internship report, IIT Bombay — solid & hybrid propellant combustion characterization |
-| **Tests for Assessing Propellant Properties** | Co-authored with Prajit Dhakal & Sugam Lamsal, IIT Bombay — propellant property test methodology |
+| **Tests for Assessing Propellant Properties** | Co-authored with Prajit Dhakal & Sugam Lamsal, IIT Bombay propellant property test methodology |
 
 <br/>
 
